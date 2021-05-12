@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "http://localhost:3333/foods",
+      "name": "Moda Italiana 1",
+      "price": "20.00",
+      "description": "Prato moda italiana",
+      "available": true,
+      "id": 4
     }
   ]
 }
