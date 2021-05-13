@@ -7,9 +7,7 @@ interface HeaderProps {
   openModal(): void;
 }
 
-function Header(props: HeaderProps) {
-  const { openModal } = props;
-
+function Header({ openModal }: HeaderProps) {
   return (
     <Container>
       <header>
